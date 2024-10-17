@@ -90,7 +90,6 @@ def save_devices_to_file(devices, filename='known_devices.txt'):
 
 # Function to scan for devices
 def scan_for_devices():
-    main_menu()
 
     blue = "\033[94m"
     error = "\033[91m"
